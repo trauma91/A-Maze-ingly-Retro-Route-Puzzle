@@ -1,0 +1,6 @@
+{
+  "rooms": [
+    { "id": 1, "name": "Hallway", "south": 2, "objects": [] },
+    { "id": 2, "name": "Dining Room", "north": 1, "objects": [{"name": "Knife" }] }
+  ]
+}
